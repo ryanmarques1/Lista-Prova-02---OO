@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1658281433 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"juiz.h"
+	"ajudante.h"
+	"competidor.h"
+	"tecnico.h"
+
+1658277730 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\pessoa.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1658277769 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\organizador.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"pessoa.h"
+	"organizador.h"
+
+1658277761 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\pessoa.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"pessoa.h"
+
+1658277750 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\organizador.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"pessoa.h"
+
+1658277764 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\participante.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"pessoa.h"
+	"participante.h"
+
+1658277746 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\participante.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"pessoa.h"
+
+1658279187 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\juiz.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"juiz.h"
+	"organizador.h"
+
+1658277742 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\juiz.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"organizador.h"
+
+1658279185 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\ajudante.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"organizador.h"
+	"ajudante.h"
+
+1658276857 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\ajudante.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"organizador.h"
+
+1658279838 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\competidor.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"competidor.h"
+
+1658279592 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\competidor.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"participante.h"
+
+1658281484 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\tecnico.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"participante.h"
+	"tecnico.h"
+
+1658280030 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex02 - competicao\tecnico.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	"participante.h"
+

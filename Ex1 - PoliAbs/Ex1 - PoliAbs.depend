@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1657992086 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\circulo.cpp
+	<bits/stdc++.h>
+	"circulo.h"
+	"formabasica.h"
+
+1657996240 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\circulo.h
+	<bits/stdc++.h>
+	"formabasica.h"
+
+1657992689 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\formabasica.h
+	<bits/stdc++.h>
+	"formabasica.h"
+
+1655684267 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\formabasica.cpp
+	<bits/stdc++.h>
+	"formabasica.h"
+
+1657996610 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\main.cpp
+	<bits/stdc++.h>
+	"formabasica.h"
+	"circulo.h"
+	"retangulo.h"
+	"quadrado.h"
+	"triangulo.h"
+
+1657996877 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\retangulo.h
+	<bits/stdc++.h>
+	"formabasica.h"
+
+1657992078 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\retangulo.cpp
+	<bits/stdc++.h>
+	"retangulo.h"
+	"formabasica.h"
+
+1657996572 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\triangulo.cpp
+	<bits/stdc++.h>
+	"formabasica.h"
+	"triangulo.h"
+
+1657996130 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\quadrado.cpp
+	<bits/stdc++.h>
+	"formabasica.h"
+	"quadrado.h"
+
+1657996238 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\quadrado.h
+	<bits/stdc++.h>
+	"formabasica.h"
+	"retangulo.h"
+
+1657996659 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex1 - poliabs\triangulo.h
+	<bits/stdc++.h>
+	"formabasica.h"
+

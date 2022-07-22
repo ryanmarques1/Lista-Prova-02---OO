@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658452982 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex3 - templates\main.cpp
+	"arrayesp.h"
+
+1658452629 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex3 - templates\arrayesp.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
