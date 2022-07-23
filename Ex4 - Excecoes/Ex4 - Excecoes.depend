@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1658550200 source:e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex4 - excecoes\main.cpp
+	"arrayesp.h"
+
+1658550208 e:\documentos\ufv\3 semestre\sin 141\lista prova 02\ex4 - excecoes\arrayesp.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<exception>
+
