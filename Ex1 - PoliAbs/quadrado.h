@@ -6,16 +6,15 @@
 #include "retangulo.h"
 using namespace std;
 
-class quadrado : public formabasica{
+class quadrado : public retangulo{
     public:
         quadrado();
-        quadrado(const double,const double,const int ,const int,const int,const double);
+        quadrado(const double,const double,const int ,const int,const int,const double,const double, const double);
         quadrado(const quadrado&);
         ~quadrado();
         quadrado& operator=(const quadrado&);
 
-        void setL(double);
-        double getL();
+
 
         virtual void imprime();
         virtual double arearc();

@@ -6,7 +6,7 @@ using namespace std;
 
 quadrado& quadrado::operator=(const quadrado& objQ){
     if(&objQ != this){
-        formabasica::operator=(objQ);
+        retangulo::operator=(objQ);
         this->l = objQ.l;
         return *this;
     }
@@ -16,11 +16,11 @@ quadrado::quadrado(){
     l = 0;
 }
 
-quadrado::quadrado(const double a, const double b, const int c,const int d, const int e, const double f) : formabasica(a,b,c,d,e){
-    setL(f);
+quadrado::quadrado(const double a,const double b,const int c,const int d,const int e,const double f,const double g,const double h) : retangulo(a,b,c,d,e,f,g){
+    retangulo::setAltura(h);
 }
 
-quadrado::quadrado(const quadrado& objQ): formabasica(objQ){
+quadrado::quadrado(const quadrado& objQ): retangulo(objQ){
     this->l = objQ.l;
 }
 
@@ -28,24 +28,14 @@ quadrado::~quadrado(){
 
 }
 
-void quadrado::setL(double f){
-    this->l = f;
-}
-
-double quadrado::getL(){
-    return this->l;
-}
-
-
 void quadrado::imprime(){
     cout << "---[Quadrado]---\n";
     formabasica::imprime();
-    cout << "Dimensoes quadrado: " << getL() << endl;
+    cout << "Dimensoes quadrado: " << retangulo::getAltura() << endl;
 }
 
 double quadrado::arearc(){
     double areaQ;
-
-    areaQ = l*l;
+    areaQ = retangulo::getAltura() * retangulo::getAltura();
     return areaQ;
 }

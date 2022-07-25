@@ -41,7 +41,7 @@ int main()
     //---------
     formP[0] = new circulo(26,18,5,9,5,15);
     formP[1] = new retangulo(25,50,12,12,13,11.2,5.5);
-    formP[2] = new quadrado(30.5,21,5,4,1,10);
+    formP[2] = new quadrado(30.5,21,5,4,1,10,8,9);
     formP[3] = new triangulo(50,15,2,3,4,5,10);
     for(int i = 0; i < 4; i++){
         cout << endl;
